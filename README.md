@@ -1,1 +1,1 @@
-# deep
+deep learningの勉強
